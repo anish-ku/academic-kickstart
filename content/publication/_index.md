@@ -6,10 +6,10 @@ title: Publications
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+header: 
+  caption: "BREAKING APART – ADAM : A METHOD FOR STOCHASTIC OPTIMIZATION"
+  image: "surf_blg.png"
 ---

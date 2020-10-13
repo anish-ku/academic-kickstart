@@ -31,7 +31,7 @@ subtitle = ""
   
  [[feature]]
   icon = "laptop-code"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Matlab"
   
  [[feature]]

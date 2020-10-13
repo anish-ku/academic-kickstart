@@ -25,7 +25,7 @@ subtitle = ""
   name = "Python"
   
 [[feature]]
-  icon = "acquisitions-incorporated"
+  icon = "superscript"
   icon_pack = "fas"
   name = "LaTex"
   

@@ -15,7 +15,7 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: Indian Institute Of Science
-  url: "iisc.ac.in"
+  url: "https://iisc.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: UG Student at IISc interested in Quantum Computing, Information Theory and Cosmolgy
@@ -66,7 +66,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am an Freshman Undergradute Student at Indian Institute Of Science pursuing BS (Research) with intended major in Physics. I love pondering over tough problems that stimulate my neurons, especially in Physics and Mathemtics. I am interested in Quantum Computing, Information Theory and Cosmology but am open to any topic that tickles my fancy.  
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

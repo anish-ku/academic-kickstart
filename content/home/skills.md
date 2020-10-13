@@ -38,7 +38,11 @@ subtitle = ""
   icon = "cuttlefish"
   icon_pack = "fab"
   name = "C"
-
+  
+ [[feature]]
+  icon = "pen-nib"
+  icon_pack = "fab"
+  name = "Writing"
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

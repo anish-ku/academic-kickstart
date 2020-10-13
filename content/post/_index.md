@@ -8,7 +8,7 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: "Breaking Apart – ADAM : A Method For Stochastic Optimization"
+header: 
   caption: ""
   image: ""
 ---

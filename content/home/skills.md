@@ -41,7 +41,7 @@ subtitle = ""
   
  [[feature]]
   icon = "pen-nib"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Writing"
 # Uncomment to use emoji icons.
 # [[feature]]

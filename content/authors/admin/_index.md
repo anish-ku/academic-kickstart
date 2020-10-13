@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: BS (Research) in Physics
+  - course: BS (Research), Physics
     institution: Indian Institute Of Science
-    year: 2024 (expected)
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

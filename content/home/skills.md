@@ -22,15 +22,16 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
+  name = "Python"
   
 [[feature]]
-  icon = "latex"
-  icon_pack = "custom"
+  icon = "acquisitions-incorporated"
+  icon_pack = "fas"
   name = "LaTex"
   
  [[feature]]
-  icon = "matlab"
-  icon_pack = "custom"
+  icon = "laptop-code"
+  icon_pack = "fas"
   name = "Matlab"
   
  [[feature]]

@@ -10,6 +10,6 @@ view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header: 
-  caption: "BREAKING APART – ADAM : A METHOD FOR STOCHASTIC OPTIMIZATION"
-  image: "surf_blg.png"
+  caption: ""
+  image: ""
 ---
